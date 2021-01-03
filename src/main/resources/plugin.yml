@@ -1,0 +1,6 @@
+name: DoubleA-Survival
+version: ${project.version}
+main: com.andrew121410.mc.doubleasurvival.DoubleASurvival
+api-version: 1.16
+authors: [ Andrew121410 ]
+description: A basic plugin for the doublea survival server.
